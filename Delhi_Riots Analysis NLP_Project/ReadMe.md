@@ -1,7 +1,9 @@
 ## Aim or Problem Statement
 Analysing the political inclination of two media houses- Times of India and The Hindu
 
-![This is an image](https://images.pexels.com/photos/3030823/pexels-photo-3030823.jpeg?cs=srgb&dl=pexels-suzy-hazelwood-3030823.jpg&fm=jpg)
+<img src="https://images.pexels.com/photos/3030823/pexels-photo-3030823.jpeg?cs=srgb&dl=pexels-suzy-hazelwood-3030823.jpg&fm=jpg" data-canonical-src="https://images.pexels.com/photos/3030823/pexels-photo-3030823.jpeg?cs=srgb&dl=pexels-suzy-hazelwood-3030823.jpg&fm=jpg" width="700" height="400" />
+
+<!-- ![This is an image](https://images.pexels.com/photos/3030823/pexels-photo-3030823.jpeg?cs=srgb&dl=pexels-suzy-hazelwood-3030823.jpg&fm=jpg) This is another way to upload images. Since this is a comment, it won't reflect in the file -->
 
 ## Background
 I was interested in examining the political inclination of Indian media houses by analysing a particlular event. I chose two Indian media houses- Times of India (ToI) and The Hindu and the delhi riots 2020 event for my analysis. 
