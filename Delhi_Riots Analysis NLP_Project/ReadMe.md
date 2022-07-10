@@ -24,5 +24,5 @@ When applied these tools on the two corpora separately, I couldn't find anything
 
 P.s- I have done the analysis on the combined corpus of text of both the corpora since they separately didn't differ in providing insights into the event.
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://www.pexels.com/photo/black-and-red-frame-eyeglasses-3030823/)
 
