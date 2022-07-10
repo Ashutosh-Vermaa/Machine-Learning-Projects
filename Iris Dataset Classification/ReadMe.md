@@ -1,3 +1,8 @@
+## Problem Statement
+Classifying the flowers on the basis of given attributes
+
+<img src="https://images.pexels.com/photos/343957/pexels-photo-343957.jpeg?cs=srgb&dl=pexels-johnmark-smith-343957.jpg&fm=jpg" width="600" height="400" />
+
 ## Data Collection
 I have used the iris dataset from Seaborn library
 
