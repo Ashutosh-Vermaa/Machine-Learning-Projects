@@ -10,7 +10,7 @@ I used Google news API to scrap the news articles from the two mentioned media h
 ## Data Cleansing
 Data collection was followed by pre-processing or cleaning of the data. As and when required, I applied word tokenization and sentence tokenization, stemming/lemmatization, removed stop words. Moreover, one can consider removing punctuations too which I have not done. 
 
-## Tools Applied and Analysis
+## Tools Applied
 I applied the Named Entity Recognition to get the character names, places and dates. The Character names gives an idea of the important people linked to the event, dates give us the time period around the riots and the places gives us the places linked to the riot site.
 
 Furthermore, I wanted to explore who are being accused of the riots. For that, I used sentence tokenization and searched the sentences that contained the word accused or consiprator. Then, I retrieved the characters using NER from these sentences. Interstingly enough, the names are similar to the names I got from the entire corpus. It shows that the these are the people who are involved in the matter in one or the other way e.g. accused, judges, advocates, witnesses etc.
