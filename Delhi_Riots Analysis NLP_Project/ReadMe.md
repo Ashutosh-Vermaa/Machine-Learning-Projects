@@ -1,6 +1,8 @@
 ## Aim or Problem Statement
 Analysing the political inclination of two media houses- Times of India and The Hindu
 
+![This is an image](https://images.pexels.com/photos/3030823/pexels-photo-3030823.jpeg?cs=srgb&dl=pexels-suzy-hazelwood-3030823.jpg&fm=jpg)
+
 ## Background
 I was interested in examining the political inclination of Indian media houses by analysing a particlular event. I chose two Indian media houses- Times of India (ToI) and The Hindu and the delhi riots 2020 event for my analysis. 
 
@@ -24,5 +26,5 @@ When applied these tools on the two corpora separately, I couldn't find anything
 
 P.s- I have done the analysis on the combined corpus of text of both the corpora since they separately didn't differ in providing insights into the event.
 
-![This is an image](https://www.pexels.com/photo/black-and-red-frame-eyeglasses-3030823/)
+
 
