@@ -5,11 +5,14 @@ Analysing the political inclination of two media houses- Times of India and The 
 
 <!-- ![This is an image](https://images.pexels.com/photos/3030823/pexels-photo-3030823.jpeg?cs=srgb&dl=pexels-suzy-hazelwood-3030823.jpg&fm=jpg) This is another way to upload images. Since this is a comment, it won't reflect in the file -->
 
+## Outline
+1. 
+
 ## Background
 I was interested in examining the political inclination of Indian media houses by analysing a particlular event. I chose two Indian media houses- Times of India (ToI) and The Hindu and the delhi riots 2020 event for my analysis. 
 
 ## Data Collection
-I used Google news API to scrap the news articles from the two mentioned media houses. I collected the links to the articles containing the key phrase 'Delhi Riots" from ToI and The Hindu. This was followed by retrieving the articles body while interating over all the collected links.
+I used Google news API to scrap the news articles from the two mentioned media houses. I collected the links to the articles containing the key phrase 'Delhi Riots" from ToI and The Hindu. This was followed by retrieving the articles body while interating over all the collected links. 
 
 ## Data Cleansing
 Data collection was followed by pre-processing or cleaning of the data. As and when required, I applied word tokenization and sentence tokenization, stemming/lemmatization, removed stop words. Moreover, one can consider removing punctuations too which I have not done. 
