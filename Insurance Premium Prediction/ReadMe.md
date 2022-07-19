@@ -15,8 +15,8 @@ The purpose of this project is to use seven variables or attributes such as age,
 1. Data Cleansing
 2. Exploratory Data Analysis
 3. Model Building and Training
-  a. Linear Regression
-  b. Artificial Neural Network
+    - Linear Regression
+    - Artificial Neural Network
  4. Model Evaluation
  
  ## Dataset Description
