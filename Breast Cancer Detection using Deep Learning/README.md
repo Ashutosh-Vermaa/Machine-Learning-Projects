@@ -64,6 +64,6 @@ The aforementioned CNN architecture can be graphically seen below.
 
 
 ## About the Author
-Hi, I am [Arjun Kohli](linkedin.com/in/arjunveerkohli). I'm currently pursuing a Computer Science major at Krea University. 
+Hi, I am [Ashutosh Verma](https://www.linkedin.com/in/kkashutosh/). I'm currently pursuing a Computer Science major at Krea University. 
 
-This project was built under the guidance of professor Pavan Kumar Perepu at Krea University. I also had constant help from my peer Ashutosh Verma (Computer Science major,  Krea University) throughout the course of the project.
+This project was built under the guidance of professor Pavan Kumar Perepu at Krea University. I also had constant help from my peer Arjun Veer Kohli (Computer Science major,  Krea University) throughout the course of the project.
